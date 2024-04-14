@@ -1,0 +1,604 @@
+AGS;Stadtteil_Nr;Stadtteil;Jahr ;Quelle;Kaufkraft-Index (pro Einwohner)
+08335043;000;Stadt Konstanz gesamt;2022;GfK Kaufkraft Deutschland ;100
+08335043;010;Altstadt;2022;GfK Kaufkraft Deutschland ;98,96463742
+08335043;020;Paradies;2022;GfK Kaufkraft Deutschland ;96,54117929
+08335043;030;Petershausen-West;2022;GfK Kaufkraft Deutschland ;81,70650374
+08335043;035;Petershausen-Ost;2022;GfK Kaufkraft Deutschland ;112,2002976
+08335043;040;Koenigsbau;2022;GfK Kaufkraft Deutschland ;98,5091954
+08335043;050;Allmannsdorf;2022;GfK Kaufkraft Deutschland ;118,4130765
+08335043;060;Staad;2022;GfK Kaufkraft Deutschland ;113,2762902
+08335043;070;Fuerstenberg;2022;GfK Kaufkraft Deutschland ;91,1318116
+08335043;080;Wollmatingen;2022;GfK Kaufkraft Deutschland ;94,51502051
+08335043;090;Industriegebiet;2022;GfK Kaufkraft Deutschland ;86,65149234
+08335043;100;Egg;2022;GfK Kaufkraft Deutschland ;125,9164822
+08335043;110;Litzelstetten;2022;GfK Kaufkraft Deutschland ;129,1171012
+08335043;120;Dingelsdorf;2022;GfK Kaufkraft Deutschland ;121,327194
+08335043;130;Dettingen;2022;GfK Kaufkraft Deutschland ;121,163412
+08335043;140;Wallhausen;2022;GfK Kaufkraft Deutschland ;127,5983029
+08335043;000;Stadt Konstanz gesamt;2021;GfK Kaufkraft Deutschland ;100
+08335043;010;Altstadt;2021;GfK Kaufkraft Deutschland ;101,2256652
+08335043;020;Paradies;2021;GfK Kaufkraft Deutschland ;95,79312796
+08335043;030;Petershausen-West;2021;GfK Kaufkraft Deutschland ;87,04901546
+08335043;035;Petershausen-Ost;2021;GfK Kaufkraft Deutschland ;108,0488787
+08335043;040;Koenigsbau;2021;GfK Kaufkraft Deutschland ;99,32901673
+08335043;050;Allmannsdorf;2021;GfK Kaufkraft Deutschland ;111,0142114
+08335043;060;Staad;2021;GfK Kaufkraft Deutschland ;112,0641051
+08335043;070;Fuerstenberg;2021;GfK Kaufkraft Deutschland ;97,35712902
+08335043;080;Wollmatingen;2021;GfK Kaufkraft Deutschland ;96,940378
+08335043;090;Industriegebiet;2021;GfK Kaufkraft Deutschland ;87,41522455
+08335043;100;Egg;2021;GfK Kaufkraft Deutschland ;115,2720325
+08335043;110;Litzelstetten;2021;GfK Kaufkraft Deutschland ;118,8465583
+08335043;120;Dingelsdorf;2021;GfK Kaufkraft Deutschland ;104,8121809
+08335043;130;Dettingen;2021;GfK Kaufkraft Deutschland ;108,2362361
+08335043;140;Wallhausen;2021;GfK Kaufkraft Deutschland ;115,4773741
+08335043;000;Stadt Konstanz gesamt;2020;GfK Kaufkraft Deutschland ;100
+08335043;010;Altstadt;2020;GfK Kaufkraft Deutschland ;96,61157189
+08335043;020;Paradies;2020;GfK Kaufkraft Deutschland ;97,09853101
+08335043;030;Petershausen-West;2020;GfK Kaufkraft Deutschland ;84,84927431
+08335043;035;Petershausen-Ost;2020;GfK Kaufkraft Deutschland ;105,0059876
+08335043;040;Koenigsbau;2020;GfK Kaufkraft Deutschland ;93,77356196
+08335043;050;Allmannsdorf;2020;GfK Kaufkraft Deutschland ;118,5542552
+08335043;060;Staad;2020;GfK Kaufkraft Deutschland ;123,3160219
+08335043;070;Fuerstenberg;2020;GfK Kaufkraft Deutschland ;97,06963301
+08335043;080;Wollmatingen;2020;GfK Kaufkraft Deutschland ;97,25898082
+08335043;090;Industriegebiet;2020;GfK Kaufkraft Deutschland ;91,59621504
+08335043;100;Egg;2020;GfK Kaufkraft Deutschland ;137,2037927
+08335043;110;Litzelstetten;2020;GfK Kaufkraft Deutschland ;117,1411337
+08335043;120;Dingelsdorf;2020;GfK Kaufkraft Deutschland ;115,6477832
+08335043;130;Dettingen;2020;GfK Kaufkraft Deutschland ;116,8685696
+08335043;140;Wallhausen;2020;GfK Kaufkraft Deutschland ;117,5656874
+08335043;000;Stadt Konstanz gesamt;2019;GfK Kaufkraft Deutschland ;100
+08335043;010;Altstadt;2019;GfK Kaufkraft Deutschland ;96,03061575
+08335043;020;Paradies;2019;GfK Kaufkraft Deutschland ;87,89333117
+08335043;030;Petershausen-West;2019;GfK Kaufkraft Deutschland ;83,6561562
+08335043;035;Petershausen-Ost;2019;GfK Kaufkraft Deutschland ;112,402222
+08335043;040;Koenigsbau;2019;GfK Kaufkraft Deutschland ;97,39444243
+08335043;050;Allmannsdorf;2019;GfK Kaufkraft Deutschland ;120,5703842
+08335043;060;Staad;2019;GfK Kaufkraft Deutschland ;119,5997386
+08335043;070;Fuerstenberg;2019;GfK Kaufkraft Deutschland ;94,67953583
+08335043;080;Wollmatingen;2019;GfK Kaufkraft Deutschland ;96,74455843
+08335043;090;Industriegebiet;2019;GfK Kaufkraft Deutschland ;81,0706167
+08335043;100;Egg;2019;GfK Kaufkraft Deutschland ;127,031691
+08335043;110;Litzelstetten;2019;GfK Kaufkraft Deutschland ;121,2182212
+08335043;120;Dingelsdorf;2019;GfK Kaufkraft Deutschland ;124,9464976
+08335043;130;Dettingen;2019;GfK Kaufkraft Deutschland ;120,8892504
+08335043;140;Wallhausen;2019;GfK Kaufkraft Deutschland ;123,4931481
+08335043;000;Stadt Konstanz gesamt;2018;GfK Kaufkraft Deutschland ;100
+08335043;010;Altstadt;2018;GfK Kaufkraft Deutschland ;99,60608596
+08335043;020;Paradies;2018;GfK Kaufkraft Deutschland ;79,7147668
+08335043;030;Petershausen-West;2018;GfK Kaufkraft Deutschland ;82,3723001
+08335043;035;Petershausen-Ost;2018;GfK Kaufkraft Deutschland ;122,9600415
+08335043;040;Koenigsbau;2018;GfK Kaufkraft Deutschland ;86,40349244
+08335043;050;Allmannsdorf;2018;GfK Kaufkraft Deutschland ;126,5398682
+08335043;060;Staad;2018;GfK Kaufkraft Deutschland ;136,0199257
+08335043;070;Fuerstenberg;2018;GfK Kaufkraft Deutschland ;95,49230022
+08335043;080;Wollmatingen;2018;GfK Kaufkraft Deutschland ;90,54252205
+08335043;090;Industriegebiet;2018;GfK Kaufkraft Deutschland ;77,81026013
+08335043;100;Egg;2018;GfK Kaufkraft Deutschland ;112,423754
+08335043;110;Litzelstetten;2018;GfK Kaufkraft Deutschland ;128,8846201
+08335043;120;Dingelsdorf;2018;GfK Kaufkraft Deutschland ;125,6718206
+08335043;130;Dettingen;2018;GfK Kaufkraft Deutschland ;116,5398428
+08335043;140;Wallhausen;2018;GfK Kaufkraft Deutschland ;124,4853101
+08335043;000;Stadt Konstanz gesamt;2017;GfK Kaufkraft Deutschland ;100
+08335043;010;Altstadt;2017;GfK Kaufkraft Deutschland ;99,17438996
+08335043;020;Paradies;2017;GfK Kaufkraft Deutschland ;79,20702982
+08335043;030;Petershausen-West;2017;GfK Kaufkraft Deutschland ;82,43920323
+08335043;035;Petershausen-Ost;2017;GfK Kaufkraft Deutschland ;123,1531597
+08335043;040;Koenigsbau;2017;GfK Kaufkraft Deutschland ;89,01851857
+08335043;050;Allmannsdorf;2017;GfK Kaufkraft Deutschland ;124,5831404
+08335043;060;Staad;2017;GfK Kaufkraft Deutschland ;132,6453465
+08335043;070;Fuerstenberg;2017;GfK Kaufkraft Deutschland ;95,67787309
+08335043;080;Wollmatingen;2017;GfK Kaufkraft Deutschland ;89,49362311
+08335043;090;Industriegebiet;2017;GfK Kaufkraft Deutschland ;82,19207887
+08335043;100;Egg;2017;GfK Kaufkraft Deutschland ;108,5443597
+08335043;110;Litzelstetten;2017;GfK Kaufkraft Deutschland ;130,7019295
+08335043;120;Dingelsdorf;2017;GfK Kaufkraft Deutschland ;122,912984
+08335043;130;Dettingen;2017;GfK Kaufkraft Deutschland ;114,4506068
+08335043;140;Wallhausen;2017;GfK Kaufkraft Deutschland ;124,2441449
+08335043;000;Stadt Konstanz gesamt;2016;GfK Kaufkraft Deutschland ;100
+08335043;010;Altstadt;2016;GfK Kaufkraft Deutschland ;97,8875222
+08335043;020;Paradies;2016;GfK Kaufkraft Deutschland ;78,09823503
+08335043;030;Petershausen-West;2016;GfK Kaufkraft Deutschland ;83,4628129
+08335043;035;Petershausen-Ost;2016;GfK Kaufkraft Deutschland ;122,9723512
+08335043;040;Koenigsbau;2016;GfK Kaufkraft Deutschland ;91,74469855
+08335043;050;Allmannsdorf;2016;GfK Kaufkraft Deutschland ;123,9436458
+08335043;060;Staad;2016;GfK Kaufkraft Deutschland ;132,5740316
+08335043;070;Fuerstenberg;2016;GfK Kaufkraft Deutschland ;96,0114961
+08335043;080;Wollmatingen;2016;GfK Kaufkraft Deutschland ;88,38361073
+08335043;090;Industriegebiet;2016;GfK Kaufkraft Deutschland ;84,09394192
+08335043;100;Egg;2016;GfK Kaufkraft Deutschland ;101,8344421
+08335043;110;Litzelstetten;2016;GfK Kaufkraft Deutschland ;130,0128246
+08335043;120;Dingelsdorf;2016;GfK Kaufkraft Deutschland ;122,1891316
+08335043;130;Dettingen;2016;GfK Kaufkraft Deutschland ;116,2334674
+08335043;140;Wallhausen;2016;GfK Kaufkraft Deutschland ;119,6445644
+08335043;000;Stadt Konstanz gesamt;2015;GfK Kaufkraft Deutschland ;100
+08335043;010;Altstadt;2015;GfK Kaufkraft Deutschland ;97,42200602
+08335043;020;Paradies;2015;GfK Kaufkraft Deutschland ;74,95875369
+08335043;030;Petershausen-West;2015;GfK Kaufkraft Deutschland ;84,99701399
+08335043;035;Petershausen-Ost;2015;GfK Kaufkraft Deutschland ;123,760594
+08335043;040;Koenigsbau;2015;GfK Kaufkraft Deutschland ;93,59872114
+08335043;050;Allmannsdorf;2015;GfK Kaufkraft Deutschland ;122,0589217
+08335043;060;Staad;2015;GfK Kaufkraft Deutschland ;133,6484344
+08335043;070;Fuerstenberg;2015;GfK Kaufkraft Deutschland ;96,06860215
+08335043;080;Wollmatingen;2015;GfK Kaufkraft Deutschland ;86,98503756
+08335043;090;Industriegebiet;2015;GfK Kaufkraft Deutschland ;84,63305287
+08335043;100;Egg;2015;GfK Kaufkraft Deutschland ;99,48733674
+08335043;110;Litzelstetten;2015;GfK Kaufkraft Deutschland ;127,8639109
+08335043;120;Dingelsdorf;2015;GfK Kaufkraft Deutschland ;123,4801123
+08335043;130;Dettingen;2015;GfK Kaufkraft Deutschland ;115,7725691
+08335043;140;Wallhausen;2015;GfK Kaufkraft Deutschland ;132,4086558
+08335043;000;Stadt Konstanz gesamt;2014;GfK Kaufkraft Deutschland ;100
+08335043;010;Altstadt;2014;GfK Kaufkraft Deutschland ;96,46835698
+08335043;020;Paradies;2014;GfK Kaufkraft Deutschland ;72,0170357
+08335043;030;Petershausen-West;2014;GfK Kaufkraft Deutschland ;85,39397155
+08335043;035;Petershausen-Ost;2014;GfK Kaufkraft Deutschland ;122,2671247
+08335043;040;Koenigsbau;2014;GfK Kaufkraft Deutschland ;93,60905384
+08335043;050;Allmannsdorf;2014;GfK Kaufkraft Deutschland ;121,9068585
+08335043;060;Staad;2014;GfK Kaufkraft Deutschland ;133,2314232
+08335043;070;Fuerstenberg;2014;GfK Kaufkraft Deutschland ;96,13137553
+08335043;080;Wollmatingen;2014;GfK Kaufkraft Deutschland ;86,93565666
+08335043;090;Industriegebiet;2014;GfK Kaufkraft Deutschland ;86,59046086
+08335043;100;Egg;2014;GfK Kaufkraft Deutschland ;98,08964282
+08335043;110;Litzelstetten;2014;GfK Kaufkraft Deutschland ;129,3458292
+08335043;120;Dingelsdorf;2014;GfK Kaufkraft Deutschland ;123,8220211
+08335043;130;Dettingen;2014;GfK Kaufkraft Deutschland ;119,3604605
+08335043;140;Wallhausen;2014;GfK Kaufkraft Deutschland ;134,1791644
+08335043;000;Stadt Konstanz gesamt;2013;GfK Kaufkraft Deutschland ;100
+08335043;010;Altstadt;2013;GfK Kaufkraft Deutschland ;94,03495771
+08335043;020;Paradies;2013;GfK Kaufkraft Deutschland ;71,75506752
+08335043;030;Petershausen-West;2013;GfK Kaufkraft Deutschland ;87,01159615
+08335043;035;Petershausen-Ost;2013;GfK Kaufkraft Deutschland ;121,2080855
+08335043;040;Koenigsbau;2013;GfK Kaufkraft Deutschland ;92,04338355
+08335043;050;Allmannsdorf;2013;GfK Kaufkraft Deutschland ;121,1745925
+08335043;060;Staad;2013;GfK Kaufkraft Deutschland ;137,2807652
+08335043;070;Fuerstenberg;2013;GfK Kaufkraft Deutschland ;95,26094708
+08335043;080;Wollmatingen;2013;GfK Kaufkraft Deutschland ;85,20688608
+08335043;090;Industriegebiet;2013;GfK Kaufkraft Deutschland ;77,84179311
+08335043;100;Egg;2013;GfK Kaufkraft Deutschland ;96,75677426
+08335043;110;Litzelstetten;2013;GfK Kaufkraft Deutschland ;134,3230352
+08335043;120;Dingelsdorf;2013;GfK Kaufkraft Deutschland ;128,1696906
+08335043;130;Dettingen;2013;GfK Kaufkraft Deutschland ;120,4509843
+08335043;140;Wallhausen;2013;GfK Kaufkraft Deutschland ;139,4151685
+08335043;000;Stadt Konstanz gesamt;2012;GfK Kaufkraft Deutschland ;100
+08335043;010;Altstadt;2012;GfK Kaufkraft Deutschland ;99,1541557
+08335043;020;Paradies;2012;GfK Kaufkraft Deutschland ;77,95285972
+08335043;030;Petershausen-West;2012;GfK Kaufkraft Deutschland ;86,61663397
+08335043;035;Petershausen-Ost;2012;GfK Kaufkraft Deutschland ;121,6620079
+08335043;040;Koenigsbau;2012;GfK Kaufkraft Deutschland ;87,78183972
+08335043;050;Allmannsdorf;2012;GfK Kaufkraft Deutschland ;109,3758166
+08335043;060;Staad;2012;GfK Kaufkraft Deutschland ;132,6929414
+08335043;070;Fuerstenberg;2012;GfK Kaufkraft Deutschland ;94,26030781
+08335043;080;Wollmatingen;2012;GfK Kaufkraft Deutschland ;92,16510424
+08335043;090;Industriegebiet;2012;GfK Kaufkraft Deutschland ;93,54566204
+08335043;100;Egg;2012;GfK Kaufkraft Deutschland ;87,94910828
+08335043;110;Litzelstetten;2012;GfK Kaufkraft Deutschland ;125,5626375
+08335043;120;Dingelsdorf;2012;GfK Kaufkraft Deutschland ;119,2387932
+08335043;130;Dettingen;2012;GfK Kaufkraft Deutschland ;115,4788467
+08335043;140;Wallhausen;2012;GfK Kaufkraft Deutschland ;123,6402635
+08335043;000;Stadt Konstanz gesamt;2011;GfK Kaufkraft Deutschland ;100
+08335043;010;Altstadt;2011;GfK Kaufkraft Deutschland ;99,1541557
+08335043;020;Paradies;2011;GfK Kaufkraft Deutschland ;77,95285972
+08335043;030;Petershausen-West;2011;GfK Kaufkraft Deutschland ;86,61663397
+08335043;035;Petershausen-Ost;2011;GfK Kaufkraft Deutschland ;121,6620079
+08335043;040;Koenigsbau;2011;GfK Kaufkraft Deutschland ;87,78183972
+08335043;050;Allmannsdorf;2011;GfK Kaufkraft Deutschland ;109,3758166
+08335043;060;Staad;2011;GfK Kaufkraft Deutschland ;132,6929414
+08335043;070;Fuerstenberg;2011;GfK Kaufkraft Deutschland ;94,26030781
+08335043;080;Wollmatingen;2011;GfK Kaufkraft Deutschland ;92,16510424
+08335043;090;Industriegebiet;2011;GfK Kaufkraft Deutschland ;93,54566204
+08335043;100;Egg;2011;GfK Kaufkraft Deutschland ;87,94910828
+08335043;110;Litzelstetten;2011;GfK Kaufkraft Deutschland ;125,5626375
+08335043;120;Dingelsdorf;2011;GfK Kaufkraft Deutschland ;119,2387932
+08335043;130;Dettingen;2011;GfK Kaufkraft Deutschland ;115,4788467
+08335043;140;Wallhausen;2011;GfK Kaufkraft Deutschland ;123,6402635
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
